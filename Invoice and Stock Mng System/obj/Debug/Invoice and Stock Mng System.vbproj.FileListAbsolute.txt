@@ -1,0 +1,40 @@
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\bin\Debug\Invoice and Stock Mng System.exe.config
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice and Stock Mng System.exe
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice and Stock Mng System.xml
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice and Stock Mng System.pdb
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\bin\Debug\App_Data\InventoryData.mdf
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\bin\Debug\App_Data\InventoryData_log.ldf
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\bin\Debug\Invoice and Stock Mng System.exe
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\bin\Debug\Invoice and Stock Mng System.pdb
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\bin\Debug\Invoice and Stock Mng System.xml
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\ResolveAssemblyReference.cache
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmAboutUsHelp.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmRptSalesRetPara.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmRptSalesPara.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmRptPurchaseRetPara.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmRptPurchaseItemPara.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmRptUserDetailPara.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmRptPurchaseItem.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmRptPurchaseRet.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmRptSales.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmRptSalesRet.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmRptStock.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmRptUserDetail.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmSalesReturn.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmChangeUser.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmCustomer.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmEmail.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmItem.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmLogin.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmMain.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmNewUser.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmPurchase.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmPurchaseReturn.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmRemoveUser.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmSales.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmSupplier.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmSysHelp.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmTax.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.FrmUserDetail.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice_and_Stock_Mng_System.Resources.resources
+E:\ty data\final project\Invoice and Stock Mng System\Invoice and Stock Mng System\obj\Debug\Invoice and Stock Mng System.vbproj.GenerateResource.Cache

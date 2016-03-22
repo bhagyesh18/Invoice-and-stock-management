@@ -1,0 +1,28 @@
+bin\Debug\Invoice and Stock Mng System.exe.config
+obj\Debug\Invoice and Stock Mng System.exe
+obj\Debug\Invoice and Stock Mng System.xml
+obj\Debug\Invoice and Stock Mng System.pdb
+bin\Debug\App_Data\InventoryData.mdf
+bin\Debug\App_Data\InventoryData_log.ldf
+bin\Debug\Invoice and Stock Mng System.exe
+bin\Debug\Invoice and Stock Mng System.pdb
+bin\Debug\Invoice and Stock Mng System.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Invoice_and_Stock_Mng_System.FrmChangeUser.resources
+obj\Debug\Invoice_and_Stock_Mng_System.FrmCustomer.resources
+obj\Debug\Invoice_and_Stock_Mng_System.FrmItem.resources
+obj\Debug\Invoice_and_Stock_Mng_System.FrmLogin.resources
+obj\Debug\Invoice_and_Stock_Mng_System.FrmMain.resources
+obj\Debug\Invoice_and_Stock_Mng_System.FrmNewUser.resources
+obj\Debug\Invoice_and_Stock_Mng_System.FrmPurchase.resources
+obj\Debug\Invoice_and_Stock_Mng_System.FrmRemoveUser.resources
+obj\Debug\Invoice_and_Stock_Mng_System.FrmSupplier.resources
+obj\Debug\Invoice_and_Stock_Mng_System.Resources.resources
+obj\Debug\Invoice and Stock Mng System.vbproj.GenerateResource.Cache
+obj\Debug\Invoice_and_Stock_Mng_System.FrmSales.resources
+obj\Debug\Invoice_and_Stock_Mng_System.FrmUserDetail.resources
+obj\Debug\Invoice_and_Stock_Mng_System.FrmEmail.resources
+obj\Debug\Invoice_and_Stock_Mng_System.FrmSalesReturn.resources
+obj\Debug\Invoice_and_Stock_Mng_System.FrmPurchaseReturn.resources
+obj\Debug\Invoice_and_Stock_Mng_System.CrystalReport1.rpt
+obj\Debug\Invoice_and_Stock_Mng_System.CRRPT.resources

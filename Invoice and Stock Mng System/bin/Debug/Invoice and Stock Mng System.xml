@@ -1,0 +1,268 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+InvoiceandStockMngSystem
+</name>
+</assembly>
+<members>
+<member name="T:Invoice_and_Stock_Mng_System.All_Data.company_masterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.itemDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.sales_retDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.sales_ret_detailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.purchase_retDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.purchase_ret_detailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.purchase_detailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.sales_detailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.salesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.purchaseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.customerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.supplier_masterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.LoginDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.login_detailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.taxDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.company_masterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.itemRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.sales_retRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.sales_ret_detailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.purchase_retRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.purchase_ret_detailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.purchase_detailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.sales_detailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.salesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.purchaseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.customerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.supplier_masterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.LoginRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.login_detailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.taxRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.company_masterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.itemRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.sales_retRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.sales_ret_detailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.purchase_retRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.purchase_ret_detailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.purchase_detailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.sales_detailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.salesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.purchaseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.customerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.supplier_masterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.LoginRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.login_detailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data.taxRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_Data">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_DataTableAdapters.company_masterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_DataTableAdapters.itemTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_DataTableAdapters.sales_retTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_DataTableAdapters.sales_ret_detailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_DataTableAdapters.purchase_retTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_DataTableAdapters.purchase_ret_detailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_DataTableAdapters.purchase_detailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_DataTableAdapters.sales_detailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_DataTableAdapters.salesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_DataTableAdapters.purchaseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_DataTableAdapters.customerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_DataTableAdapters.supplier_masterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_DataTableAdapters.LoginTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_DataTableAdapters.login_detailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.All_DataTableAdapters.taxTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="P:Invoice_and_Stock_Mng_System.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Invoice_and_Stock_Mng_System.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Invoice_and_Stock_Mng_System.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
